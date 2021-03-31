@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Marcin Erbel's CV
+title: Marcin Erbel
 ---
 # Marcin Erbel
 Principal Software Engineer, Team Lead, Trainer
@@ -20,15 +20,19 @@ Currently working as a Software Engineer, Team Leader and Trainer.
 
 __Languages:__ Java, Kotlin, Groovy;
 
-__Frameworks:__ Spring, SpringBoot, SpringData, SpringCloud, Vavr;
+__Frameworks:__ Spring, SpringBoot, SpringData, SpringCloud, Apache Camel, Vavr;
+
+__Build tools:__ Maven, Gradle
+
+__Brokers:__ ActiveMQ
 
 __Clouds:__ Aws, Azure;
 
-__Containers:__ Kubernetes, Docker;
+__Containers:__ K8S, Docker;
 
-__Storages:__ ElasticSearch, PostgreSQL, Oracle DB, Cassandra, MongoDB;
+__Storages:__ PostgreSQL, Oracle DB, MySQL, Cassandra, MongoDB, ElasticSearch;
 
-__Testing:__ Junit, Cucumber, Selenium, TestNG, Mockito;
+__Testing:__ Junit, Cucumber, Selenium, TestNG, Mockito, AssertJ, Spock;
 
 __Corpo tools:__ IBM Jazz, Jira, Confluence, Redmine;
 
@@ -150,12 +154,12 @@ Notification Server
 Application for decoders
 <br/>(March 2015)
 <br/>Role: Developer
-<br/>Technologies: Java, Javascript, Jquery, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, Wildfly
+<br/>Technologies: Java, Javascript, JQuery, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, Wildfly
 
 ePayments for Ministry of Justice
 <br/>(November 2014 - March 2015)
 <br/>Role: Developer
-<br/>Technologies: Java, Apache Camel, Jboss Fuse, Spring, Hibernate, JPA, WebServices (SOAP/REST), Jasper Reports, Maven, SVN, Couchbase, Oracle 11g, Jboss AS/ EAP
+<br/>Technologies: Java, Apache Camel, JBoss Fuse, Spring, Hibernate, JPA, WebServices (SOAP/REST), Jasper Reports, Maven, SVN, Couchbase, Oracle 11g, Jboss AS/ EAP
 
 Mobile Gateway
 <br/>(August 2014 - December 2014)
@@ -225,8 +229,7 @@ __Intern__
 Internship focused on mobile application development.
 
 Responsibilities:
-- Cognizing IOS & Android systems
-
+- Cognizing IOS & Android system
 ## Education
 
 `2017 - 2018`

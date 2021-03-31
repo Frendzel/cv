@@ -14,7 +14,7 @@ Principal Software Engineer, Team Lead, Trainer
 ## Short bio
 
 Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. More than 7+ years of experience as a Software Engineer, 4+ years in leading teams (team lead/tech lead), 5+ years in teaching.
-Currently working as a Team Leader and trainer.
+Currently working as a Software Engineer, Team Leader and Trainer.
 
 ### Specialized in
 
@@ -26,7 +26,7 @@ __Clouds:__ Aws, Azure;
 
 __Containers:__ Kubernetes, Docker;
 
-__Storages:__ ElasticSearch, PostgreSQL, Oracle DB, Cassandra;
+__Storages:__ ElasticSearch, PostgreSQL, Oracle DB, Cassandra, MongoDB;
 
 __Testing:__ Junit, Cucumber, Selenium, TestNG, Mockito;
 
@@ -201,8 +201,8 @@ JAVA SE 7, Mule ESB 3, JBoss AS 7.1, MySQL 5, WebServices (SOAP/REST), JPA 2.0, 
 
 Summary:
 Complete internship with grades as expected. Results above average were:
-- fast learning process,
-- sincere work engagement and commitment.
+- Fast learning process,
+- Sincere work engagement and commitment.
 
 `01.2012 -
 02.2012`
@@ -212,11 +212,11 @@ __Intern__
 Internship focused on Joomla support.
 
 Responsibilities:
-- preparing templates and installing templates with CMS on server
-- supporting CMS
+- Preparing templates and installing templates with CMS on server
+- Supporting CMS
 
 Technologies:
-HTML/CSS/PHP. Joomla
+HTML, CSS, PHP, Joomla
 
 `10.2011 - 11.2011`
 __Intern__

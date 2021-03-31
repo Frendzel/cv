@@ -43,14 +43,14 @@ __Principal Software Engineer__
 Working as a Software Developer with Server Product in Redbend R&D Department in the beginning. Then working as a Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 6 Java Developers, 3 QA's, 2 C developers, 2 DevOps. Requirements gathering and analysis, team management, delivery development process improvements. Additionally, the author and lecturer of the internal Java course for QA's (30h+) mostly focusing on Java, Spring, SQL, NoSQL (MongoDB). Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements.
 
 __Department:__ Redbend aka Cloud&Edge
-<br/>__Projects:__ FCA-SGW, PSA, Polaris, Toyota 21MM, Samsung, Honda, GWM
+<br/>__Projects:__ Automotive customers in Delivery organisation
 <br/>(February 2019 - now)
 <br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
 Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrumban
 
 __Department:__ Redbend aka Cloud&Edge
-<br/>__Project:__ SWM Server R&D
+<br/>__Project:__ Server R&D
 <br/>(December 2018 - February 2019)
 <br/>Role: Software Developer
 <br/>Technologies: Java 11, ActiveMQ, Spring 5, SpringBoot 2, Spring Security, Vault, ElasticSearch, PF4J, PostgreSql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
@@ -94,7 +94,7 @@ Organising events and presenting topics -> <a href="https://www.youtube.com/watc
 __Senior Software Engineering Consultant__
 (ITMagination)
 
-Outsourcing for Pekao Bank
+Outsourcing for bank in Poland
 <br/>Role: Java Developer
 <br/>Technologies: Java 8 SE, SpringBoot 2.0, Spring Cloud Config, Spring 5, Kafka, OracleDB, Maven, JUnit, AssertJ, Git, Gerrit, Confluence, Jira, InteliJ
 
@@ -102,7 +102,7 @@ Outsourcing for Pekao Bank
 __Team Lead / Software Engineer__
 (Oberthur Technologies / Idemia)
 
-EPay - Payments
+Payments
 <br/>Role: Team Lead/Software Engineer
 <br/>Technologies: Java 8 SE, Spring, Cassandra, Apache Camel, Maven, Groovy, TDD, BDD, Spock, JUnit, Git, Docker, Kubernetes, Akka, Confluence, Bitbucket, Jira, InteliJ
 <br/>Project leadership and technical guidance role within software engineering team working in Payments Department: 3 Devs, 1 QA, 1 DevOps. Release schedule planning, requirements gathering and analysis, team management, training officer for L1/L2 support teams. Successfully went through Mastercard certification process with the whole platform.
@@ -111,7 +111,7 @@ EPay - Payments
 __IT Teacher__
 (Technical College of Innovative Education and Computer Science in Lodz)
 
-<br/>Designing local computer networks and networks administration.
+Designing local computer networks and networks administration.
 <br/>Building Internet Applications.
 <br/>Preparing for E.13, E.14 technical qualification exam.
 
@@ -119,7 +119,7 @@ __IT Teacher__
 __Tech Lead / Java Developer__
 (IT Kontrakt)
 
-Outsourcing for main Polish Bank
+Outsourcing for bank in Poland
 <br/>(June 2015 - May 2016)
 <br/>Role: Developer / Tech Lead / Team Lead / Interviewer
 <br/>Technologies: Java, ServiceMix, XSLT, XML, XPath, Apache Camel, JMS, WebServices (SOAP/REST), Maven, SVN, PL/SQL, Windows PowerShell, Redmine
@@ -142,42 +142,42 @@ Profits:
 __Junior Software Developer__
 (AMG.net / Atos)
 
-NTF - Notification Server
+Notification Server
 <br/>(March 2015 - May 2015)
 <br/>Role: Developer/DevOps
 <br/>Technologies: Java, JMS, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, JBoss AS
 
-eCareSTB - Application for decoders
+Application for decoders
 <br/>(March 2015)
 <br/>Role: Developer
 <br/>Technologies: Java, Javascript, Jquery, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, Wildfly
 
-ePayments - ePayments for Ministry of Justice
+ePayments for Ministry of Justice
 <br/>(November 2014 - March 2015)
 <br/>Role: Developer
 <br/>Technologies: Java, Apache Camel, Jboss Fuse, Spring, Hibernate, JPA, WebServices (SOAP/REST), Jasper Reports, Maven, SVN, Couchbase, Oracle 11g, Jboss AS/ EAP
 
-MOBLGW - Mobile Gateway
+Mobile Gateway
 <br/>(August 2014 - December 2014)
 <br/>Role: Developer
 <br/>Technologies: Java, WebServices (SOAP/REST), Hibernate, Maven, Oracle 11g, Tomcat
 
-PLL LOT - Polish Airlines
+Polish Airlines
 <br/>(June 2014 - October 2014)
 <br/>Role: Developer
 <br/>Technologies: JAVA SE 7, Mule ESB 3, JBoss AS 7.1, MySQL 5, WebServices (SOAP/REST), JPA 2.0, AWS, Maven 2, Groovy, XML/XPATH/XSLT
 
-NTF Console - Notification Server Console
+Notification Server Console
 <br/>(August 2014 - September 2014)
 <br/>Role: Developer
 <br/>Technologies: Play, Scala, Java, WebServices (SOAP/REST), Maven, Oracle 11g
 
-PGW - Payment Gateway
+Payment Gateway
 <br/>(June 2014 - July 2014)
 <br/>Role: Developer
 <br/>Technologies: Java, Apache Camel, Spring, Hibernate, JPA, WebServices (SOAP/REST), Maven, Liquibase, SVN, Oracle 11g, Tomcat
 
-CCGW - Content Charging Gateway
+Content Charging Gateway
 <br/>(November 2013 - May 2014)
 <br/>Role: Developer
 <br/>Technologies: Java, Apache Camel, Spring, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Couchbase, Oracle 11g, Tomcat

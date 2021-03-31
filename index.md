@@ -111,9 +111,9 @@ EPay - Payments
 __IT Teacher__
 (Technical College of Innovative Education and Computer Science in Lodz)
 
-Designing local computer networks and networks administration.
-Building Internet Applications
-Preparing for E.13, E.14 technical qualification exam.
+<br/>Designing local computer networks and networks administration.
+<br/>Building Internet Applications.
+<br/>Preparing for E.13, E.14 technical qualification exam.
 
 `06.2015 - 05.2016`
 __Tech Lead / Java Developer__
@@ -194,13 +194,13 @@ Workshops (2 months):
 - Basic JEE applications using Servlet API, MVC & JSP.
 - Web servers: Tomcat, JBoss.
 
-Project (1.5 months):
-Implementation a new project for Polish Airlines based on MuleESB platform.
-Technologies:
+<br/>Project (1.5 months):
+<br/>Implementation a new project for Polish Airlines based on MuleESB platform.
+<br/>Technologies:
 JAVA SE 7, Mule ESB 3, JBoss AS 7.1, MySQL 5, WebServices (SOAP/REST), JPA 2.0, AWS, Maven 2, Groovy, XML/XPATH/XSLT
 
-Summary:
-Complete internship with grades as expected. Results above average were:
+<br/>Summary:
+<br/>Complete internship with grades as expected. Results above average were:
 - Fast learning process,
 - Sincere work engagement and commitment.
 
@@ -225,7 +225,7 @@ __Intern__
 Internship focused on mobile application development.
 
 Responsibilities:
-- cognizing IOS & Android systems
+- Cognizing IOS & Android systems
 
 ## Education
 

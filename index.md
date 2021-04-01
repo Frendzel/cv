@@ -230,6 +230,7 @@ Internship focused on mobile application development.
 
 Responsibilities:
 - Cognizing IOS & Android system
+
 ## Education
 
 `2017 - 2018`

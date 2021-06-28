@@ -60,6 +60,22 @@ __Department:__ Redbend aka Cloud&Edge
 <br/>Technologies: Java 11, ActiveMQ, Spring 5, SpringBoot 2, Spring Security, Vault, ElasticSearch, PF4J, PostgreSql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrum
 
+`07.2021 - now`
+__Instructor__
+(Vavatech)
+<br/>(July 2021 - now) - part-time
+<br/>Role: instructor
+<br/>Technologies: ESB ServiceMix
+
+`04.2021 - now`
+__Groovy Developer__
+(Team Connect)
+<br/>__Project:__ P2P Loan Portal
+<br/>(April 2021 - now) - part-time
+<br/>Role: Software Developer
+<br/>Technologies: Groovy, Gradle, Eclipse Vert.X, MongoDB, Reactive Programming
+<br/>Methodology: Direct cooperation with customer
+
 `08.2017 - now`
 __Programming Bootcamp Teacher__
 (Software Development Academy)

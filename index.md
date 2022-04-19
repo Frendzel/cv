@@ -53,7 +53,6 @@ __Department:__ Redbend aka Cloud&Edge
 Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrumban
 
-`12.2018 - 09.2021`
 __Principal Software Engineer__
 (Harman Connected Services)
 

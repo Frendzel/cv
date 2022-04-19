@@ -13,7 +13,7 @@ Principal Software Engineer, Team Lead, Trainer
 
 ## Short bio
 
-Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. More than 7+ years of experience as a Software Engineer, 4+ years in leading teams (team lead/tech lead), 5+ years in teaching.
+Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. Moreless 10 years of experience as a Software Engineer, 6+ years in leading teams (team lead/tech lead), 6+ years in teaching.
 Currently working as a Software Engineer, Team Leader and Trainer.
 
 ### Specialized in
@@ -40,7 +40,20 @@ __Methodologies:__ Scrum, Kanban, Scrumban, Waterfall;
 
 ## Experience
 
-`12.2018 - now`
+`09.2021 - now`
+__Senior Principal Software Engineer__
+(Harman Connected Services)
+
+Working as a Group Leader and Technical Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 15+ people. Requirements gathering and analysis, team management, delivery development process improvements. Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements.
+
+__Department:__ Redbend aka Cloud&Edge
+<br/>__Projects:__ Automotive customers in Delivery organisation
+<br/>(September 2021 - now)
+<br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
+Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
+<br/>Methodology: Scrumban
+
+`12.2018 - 09.2021`
 __Principal Software Engineer__
 (Harman Connected Services)
 
@@ -48,7 +61,7 @@ Working as a Software Developer with Server Product in Redbend R&D Department in
 
 __Department:__ Redbend aka Cloud&Edge
 <br/>__Projects:__ Automotive customers in Delivery organisation
-<br/>(February 2019 - now)
+<br/>(February 2019 - September 2021)
 <br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
 Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrumban
@@ -59,22 +72,6 @@ __Department:__ Redbend aka Cloud&Edge
 <br/>Role: Software Developer
 <br/>Technologies: Java 11, ActiveMQ, Spring 5, SpringBoot 2, Spring Security, Vault, ElasticSearch, PF4J, PostgreSql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrum
-
-`07.2021 - now`
-__Instructor__
-(Vavatech)
-<br/>(July 2021 - now) - part-time
-<br/>Role: instructor
-<br/>Technologies: ESB ServiceMix
-
-`04.2021 - now`
-__Groovy Developer__
-(Team Connect)
-<br/>__Project:__ P2P Loan Portal
-<br/>(April 2021 - now) - part-time
-<br/>Role: Software Developer
-<br/>Technologies: Groovy, Gradle, Eclipse Vert.X, MongoDB, Reactive Programming
-<br/>Methodology: Direct cooperation with customer
 
 `08.2017 - now`
 __Programming Bootcamp Teacher__
@@ -91,6 +88,22 @@ SDA offers 7 months Java courses, aimed at beginners, who are ready to take the 
 - HTTP,
 - Scrum,
 - Preparing for IT Interviews;
+
+`07.2021 - 02.2022`
+__Instructor__
+(Vavatech)
+<br/>(July 2021 - February 2022) - part-time
+<br/>Role: instructor
+<br/>Technologies: ESB ServiceMix
+
+`04.2021 - 02.2022`
+__Groovy Developer__
+(Team Connect)
+<br/>__Project:__ P2P Loan Portal
+<br/>(April 2021 - February 2022) - part-time
+<br/>Role: Software Developer
+<br/>Technologies: Groovy, Gradle, Eclipse Vert.X, MongoDB, Reactive Programming
+<br/>Methodology: Direct cooperation with customer
 
 `05.2015 - now`
 __Java Mentor / Owner__

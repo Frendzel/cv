@@ -3,7 +3,7 @@ layout: cv
 title: Marcin Erbel
 ---
 # Marcin Erbel
-Principal Software Engineer, Team Lead, Trainer
+Senior Engineering Manager / Senior Principal Software Engineer / Team Lead / Trainer
 
 <div id="webaddress">
 <a href="marcinerbel90@gmail.com">Mail</a> |
@@ -14,7 +14,7 @@ Principal Software Engineer, Team Lead, Trainer
 ## Short bio
 
 Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. Moreless 10 years of experience as a Software Engineer, 6+ years in leading teams (team lead/tech lead), 6+ years in teaching.
-Currently working as a Software Engineer, Team Leader and Trainer.
+Currently working as an Engineering Manager, Technical Team Leader and Trainer.
 
 ### Specialized in
 
@@ -41,7 +41,7 @@ __Methodologies:__ Scrum, Kanban, Scrumban, Waterfall;
 ## Experience
 
 `09.2021 - now`
-__Senior Principal Software Engineer__
+__Senior Engineering Manager / Senior Principal Software Engineer__
 (Harman Connected Services)
 
 Working as a Group Leader and Technical Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 15+ people. Requirements gathering and analysis, team management, delivery development process improvements. Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements.

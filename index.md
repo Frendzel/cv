@@ -6,7 +6,7 @@ title: Marcin Erbel
 Senior Engineering Manager / Senior Principal Software Engineer / Team Lead / Trainer
 
 <div id="webaddress">
-<a href="marcinerbel90@gmail.com">Mail</a> |
+<a href="mailto: marcinerbel90@gmail.com">Mail</a> |
 <a href="http://razturaztam.pl/">My travel blog</a> |
 <a href="http://java4u.pl/">My work blog</a>
 </div>
@@ -322,12 +322,13 @@ __Kotlin For Java Developers - Coursera course authorized by JetBrains__
 
 ## Hobbies
 
-Travelling (preCovid-19 times),
+Travelling,
 Cycling,
 Chess playing,
 Programming,
 Keto Diet,
-Wim Hof Methodology;
+Wim Hof Methodology,
+Investing'
 
 
 

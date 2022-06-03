@@ -9,12 +9,14 @@ Senior Engineering Manager / Senior Principal Software Engineer / Team Lead / Tr
 <a href="mailto: marcinerbel90@gmail.com">Mail</a> |
 <a href="http://razturaztam.pl/">My travel blog</a> |
 <a href="http://java4u.pl/">My work blog</a>
+<a href="https://www.linkedin.com/in/marcin-erbel/">LinkedIn</a>
 </div>
 
 ## Short bio
 
 Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. Moreless 10 years of experience as a Software Engineer, 6+ years in leading teams (team lead/tech lead), 6+ years in teaching.
 Currently working as an Engineering Manager, Technical Team Leader and Trainer.
+Living near Lodz (Poland).
 
 ### Specialized in
 
@@ -40,7 +42,7 @@ __Methodologies:__ Scrum, Kanban, Scrumban, Waterfall;
 
 ## Experience
 
-`09.2021 - now`
+`12.2018 - now`
 __Senior Engineering Manager / Senior Principal Software Engineer__
 (Harman Connected Services)
 
@@ -53,7 +55,7 @@ __Department:__ Redbend aka Cloud&Edge
 Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrumban
 
-__Principal Software Engineer__
+__Engineering Manager / Principal Software Engineer__
 (Harman Connected Services)
 
 Working as a Software Developer with Server Product in Redbend R&D Department in the beginning. Then working as a Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 6 Java Developers, 3 QA's, 2 C developers, 2 DevOps. Requirements gathering and analysis, team management, delivery development process improvements. Additionally, the author and lecturer of the internal Java course for QA's (30h+) mostly focusing on Java, Spring, SQL, NoSQL (MongoDB). Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements.
@@ -76,17 +78,7 @@ __Department:__ Redbend aka Cloud&Edge
 __Programming Bootcamp Teacher__
 (Software Development Academy)
 
-SDA offers 7 months Java courses, aimed at beginners, who are ready to take the Junior Java Developer role at the end of the course. Teaching fundamentals of:
-- Java,
-- Spring,
-- SQL,
-- NoSQL,
-- Hibernate/Jpa,
-- SOAP,
-- REST,
-- HTTP,
-- Scrum,
-- Preparing for IT Interviews;
+SDA offers 7 months Java courses, aimed at beginners, who are ready to take the Junior Java Developer role at the end of the course. Teaching fundamentals of: Java, Spring, SQL, NoSQL, Hibernate/Jpa, SOAP, REST, HTTP, Scrum;
 
 `07.2021 - 02.2022`
 __Instructor__
@@ -108,13 +100,7 @@ __Groovy Developer__
 __Java Mentor / Owner__
 (Java4u)
 
-Teaching/Mentoring technical skills which are mostly:
-- Java
-- Spring
-- SQL
-- JPA/Hibernate
-- NoSQL (MongoDB)
-- ESB, Servicemix
+Teaching/Mentoring technical skills which are mostly: Java, Spring, SQL, JPA/Hibernate, NoSQL (MongoDB), ESB, Servicemix
 
 `10.2019 - 10.2020`
 __Co-organizer / Presenter__
@@ -286,7 +272,12 @@ BSc Thesis: Projecting and generating XML Documents based on a Relational Data B
 <br/>Technologies: XML, XPath, XSLT, XSD, MS SQL Server
 <br/>**Graduated in the top 5% of all graduates in 2013.**
 
-## Courses
+## Courses & Certificates
+
+`05.2022`
+__AWS Certified Cloud Practitioner__
+(AWS)
+<a href="https://www.credly.com/badges/a42e8612-7c5a-4862-b11c-7d60ad1a1fd8">Certificate</a>
 
 `02.2021`
 __Complete Guide to Elasticsearch__
@@ -328,10 +319,4 @@ Chess playing,
 Programming,
 Keto Diet,
 Wim Hof Methodology,
-Investing'
-
-
-
-<!-- ### Footer
-
-Last updated: March 2021 -->
+Investing;

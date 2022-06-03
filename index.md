@@ -83,16 +83,12 @@ SDA offers 7 months Java courses, aimed at beginners, who are ready to take the 
 `07.2021 - 02.2022`
 __Instructor__
 (Vavatech)
-<br/>(July 2021 - February 2022) - part-time
-<br/>Role: instructor
 <br/>Technologies: ESB ServiceMix
 
 `04.2021 - 02.2022`
 __Groovy Developer__
 (Team Connect)
-<br/>__Project:__ P2P Loan Portal
-<br/>(April 2021 - February 2022) - part-time
-<br/>Role: Software Developer
+<br/>__Project:__ P2P Loan Portal - part-time
 <br/>Technologies: Groovy, Gradle, Eclipse Vert.X, MongoDB, Reactive Programming
 <br/>Methodology: Direct cooperation with customer
 
@@ -113,7 +109,6 @@ __Senior Software Engineering Consultant__
 (ITMagination)
 
 Outsourcing for bank in Poland
-<br/>Role: Java Developer
 <br/>Technologies: Java 8 SE, SpringBoot 2.0, Spring Cloud Config, Spring 5, Kafka, OracleDB, Maven, JUnit, AssertJ, Git, Gerrit, Confluence, Jira, InteliJ
 
 `06.2016 - 08.2018`
@@ -121,7 +116,6 @@ __Team Lead / Software Engineer__
 (Oberthur Technologies / Idemia)
 
 Payments
-<br/>Role: Team Lead/Software Engineer
 <br/>Technologies: Java 8 SE, Spring, Cassandra, Apache Camel, Maven, Groovy, TDD, BDD, Spock, JUnit, Git, Docker, Kubernetes, Akka, Confluence, Bitbucket, Jira, InteliJ
 <br/>Project leadership and technical guidance role within software engineering team working in Payments Department: 3 Devs, 1 QA, 1 DevOps. Release schedule planning, requirements gathering and analysis, team management, training officer for L1/L2 support teams. Successfully went through Mastercard certification process with the whole platform.
 
@@ -138,8 +132,6 @@ __Tech Lead / Java Developer__
 (IT Kontrakt)
 
 Outsourcing for bank in Poland
-<br/>(June 2015 - May 2016)
-<br/>Role: Developer / Tech Lead / Team Lead / Interviewer
 <br/>Technologies: Java, ServiceMix, XSLT, XML, XPath, Apache Camel, JMS, WebServices (SOAP/REST), Maven, SVN, PL/SQL, Windows PowerShell, Redmine
 
 `10.2012 - 06.2015`

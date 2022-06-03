@@ -8,7 +8,7 @@ Senior Engineering Manager / Senior Principal Software Engineer / Team Lead / Tr
 <div id="webaddress">
 <a href="mailto: marcinerbel90@gmail.com">Mail</a> |
 <a href="http://razturaztam.pl/">My travel blog</a> |
-<a href="http://java4u.pl/">My work blog</a>
+<a href="http://java4u.pl/">My work blog</a> |
 <a href="https://www.linkedin.com/in/marcin-erbel/">LinkedIn</a>
 </div>
 

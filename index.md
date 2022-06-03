@@ -91,7 +91,7 @@ __Groovy Developer__
 <br/>Technologies: Groovy, Gradle, Eclipse Vert.X, MongoDB, Reactive Programming
 <br/>Methodology: Direct cooperation with customer
 
-`05.2015 - now`
+`05.2015 - 02.2022`
 __Java Mentor / Owner__
 (Java4u)
 <br/>Teaching/Mentoring technical skills which are mostly: Java, Spring, SQL, JPA/Hibernate, NoSQL (MongoDB), ESB, Servicemix

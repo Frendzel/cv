@@ -77,7 +77,7 @@ __Department:__ Redbend aka Cloud&Edge
 `08.2017 - now`
 __Programming Bootcamp Teacher__
 (Software Development Academy)
-SDA offers 7 months Java courses, aimed at beginners, who are ready to take the Junior Java Developer role at the end of the course. Teaching fundamentals of: Java, Spring, SQL, NoSQL, Hibernate/Jpa, SOAP, REST, HTTP, Scrum;
+<br/>SDA offers 7 months Java courses, aimed at beginners, who are ready to take the Junior Java Developer role at the end of the course. Teaching fundamentals of: Java, Spring, SQL, NoSQL, Hibernate/Jpa, SOAP, REST, HTTP, Scrum;
 
 `07.2021 - 02.2022`
 __Instructor__
@@ -94,43 +94,43 @@ __Groovy Developer__
 `05.2015 - now`
 __Java Mentor / Owner__
 (Java4u)
-Teaching/Mentoring technical skills which are mostly: Java, Spring, SQL, JPA/Hibernate, NoSQL (MongoDB), ESB, Servicemix
+<br/>Teaching/Mentoring technical skills which are mostly: Java, Spring, SQL, JPA/Hibernate, NoSQL (MongoDB), ESB, Servicemix
 
 `10.2019 - 10.2020`
 __Co-organizer / Presenter__
 (Javafaktura)
-Organising events and presenting topics -> <a href="https://www.youtube.com/watch?v=wYTkJ6q-JhQ">Spring AOP</a>
+<br/>Organising events and presenting topics -> <a href="https://www.youtube.com/watch?v=wYTkJ6q-JhQ">Spring AOP</a>
 
 `09.2018 - 11.2018`
 __Senior Software Engineering Consultant__
 (ITMagination)
-Outsourcing for bank in Poland
+<br/>Outsourcing for bank in Poland
 <br/>Technologies: Java 8 SE, SpringBoot 2.0, Spring Cloud Config, Spring 5, Kafka, OracleDB, Maven, JUnit, AssertJ, Git, Gerrit, Confluence, Jira, InteliJ
 
 `06.2016 - 08.2018`
 __Team Lead / Software Engineer__
 (Oberthur Technologies / Idemia)
-Payments
+<br/>Payments
 <br/>Technologies: Java 8 SE, Spring, Cassandra, Apache Camel, Maven, Groovy, TDD, BDD, Spock, JUnit, Git, Docker, Kubernetes, Akka, Confluence, Bitbucket, Jira, InteliJ
 <br/>Project leadership and technical guidance role within software engineering team working in Payments Department: 3 Devs, 1 QA, 1 DevOps. Release schedule planning, requirements gathering and analysis, team management, training officer for L1/L2 support teams. Successfully went through Mastercard certification process with the whole platform.
 
 `02.2018 - 06.2018`
 __IT Teacher__
 (Technical College of Innovative Education and Computer Science in Lodz)
-Designing local computer networks and networks administration.
+<br/>Designing local computer networks and networks administration.
 <br/>Building Internet Applications.
 <br/>Preparing for E.13, E.14 technical qualification exam.
 
 `06.2015 - 05.2016`
 __Tech Lead / Java Developer__
 (IT Kontrakt)
-Outsourcing for bank in Poland
+<br/>Outsourcing for bank in Poland
 <br/>Technologies: Java, ServiceMix, XSLT, XML, XPath, Apache Camel, JMS, WebServices (SOAP/REST), Maven, SVN, PL/SQL, Windows PowerShell, Redmine
 
 `10.2012 - 06.2015`
 __Maths Teacher__
 (Akwadrat - Mobilna Szkoła Matematyki)
-Responsibilities:
+<br/>Responsibilities:
 - Teaching maths, physics and general science
 - Interact with children
 - Target group: students, school children (from primary school to university)
@@ -143,7 +143,7 @@ Profits:
 `11.2013 - 05.2015`
 __Junior Software Developer__
 (AMG.net / Atos)
-Notification Server
+<br/>Notification Server
 <br/>(March 2015 - May 2015)
 <br/>Role: Developer/DevOps
 <br/>Technologies: Java, JMS, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, JBoss AS
@@ -209,7 +209,7 @@ JAVA SE 7, Mule ESB 3, JBoss AS 7.1, MySQL 5, WebServices (SOAP/REST), JPA 2.0, 
 02.2012`
 __Intern__
 (Select Star)
-Internship focused on Joomla support.
+<br/>Internship focused on Joomla support.
 
 Responsibilities:
 - Preparing templates and installing templates with CMS on server

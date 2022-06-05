@@ -55,23 +55,20 @@ body {
 	font: normal normal 400;
 	font-size: 10pt;
 	line-height: 1.35em;
-	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: Verdana,sans-serif;
-	/*margin-top: 1em;
-	margin-left: 1em;*/
 }
 
 p {
 	position: relative;
-	left: 28%;
+	left: 12%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 70%;
+	width: 75%;
 }
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 65%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
@@ -79,7 +76,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -14%;
+	left: -15%;
 }
 
 
@@ -88,21 +85,11 @@ ul {
 	left: 28%;
 	width: 65%;
 	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
-	content: "-";
-	position: relative;
-	left: -0.25em;
-}*/
-
 li {
-	/*second line indent*/
 	padding-left: 1.25em;
 	text-indent: -1.25em;
-	/*color: #777;*/
 }
 
 li ul {
@@ -138,7 +125,7 @@ h2 {
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
-	text-align: right;
+	text-align: left;
 	width: 14%;
 }
 
@@ -149,7 +136,7 @@ h3 {
 	color: #ccc;
 	position: relative;
 	top: 1.6em;
-	text-align: right;
+	text-align: left;
 	width: 14%;
 }
 

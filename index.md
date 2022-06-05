@@ -13,12 +13,14 @@ Senior Engineering Manager / Senior Principal Software Engineer / Team Lead / Tr
 </div>
 
 ## Short bio
+<br/>
 
 Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. Moreless 10 years of experience as a Software Engineer, 6+ years in leading teams (team lead/tech lead), 6+ years in teaching.
 Currently working as an Engineering Manager, Technical Team Leader and Trainer.
 Living near Lodz (Poland).
 
 ### Specialized in
+<br/>
 
 __Languages:__ Java, Kotlin, Groovy;
 
@@ -41,24 +43,35 @@ __Corpo tools:__ IBM Jazz, Jira, Confluence, Redmine;
 __Methodologies:__ Scrum, Kanban, Scrumban, Waterfall;
 
 ## Experience
-
-`12.2018 - now`
+<br/>
+`09.2021 - now`
 __Senior Engineering Manager / Senior Principal Software Engineer__
 (Harman Connected Services)
 
-Working as a Group Leader and Technical Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 15+ people. Requirements gathering and analysis, team management, delivery development process improvements. Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements.
+Working as a Group Leader and Technical Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 15+ people. Requirements gathering and analysis, team management, delivery development process improvements. Technical interviewer (over 100+ interviews). K8S Guardian role, Aspice Guardian role and Server Guild Leader in the Delivery Department. Always open to new technologies and focus on development improvements. Managing team members and team leaders, performing f2fs, doing onboarding for newcomers, resolving conflicts and handling organisation issues.
 
 __Department:__ Redbend aka Cloud&Edge
 <br/>__Projects:__ Automotive customers in Delivery organisation
-<br/>(September 2021 - now)
 <br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
 Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrumban
 
-__Engineering Manager / Principal Software Engineer__
+`02.2019 - 09.2021`
+__Engineering Manager__
 (Harman Connected Services)
 
 Working as a Software Developer with Server Product in Redbend R&D Department in the beginning. Then working as a Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 6 Java Developers, 3 QA's, 2 C developers, 2 DevOps. Requirements gathering and analysis, team management, delivery development process improvements. Additionally, the author and lecturer of the internal Java course for QA's (30h+) mostly focusing on Java, Spring, SQL, NoSQL (MongoDB). Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements.
+
+__Department:__ Redbend aka Cloud&Edge
+<br/>__Projects:__ Automotive customers in Delivery organisation
+<br/>(February 2019 - September 2021)
+<br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
+Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
+<br/>Methodology: Scrumban
+
+`12.2018 - 09.2021`
+__Principal Software Engineer__
+(Harman Connected Services)
 
 __Department:__ Redbend aka Cloud&Edge
 <br/>__Projects:__ Automotive customers in Delivery organisation
@@ -130,15 +143,8 @@ __Tech Lead / Java Developer__
 `10.2012 - 06.2015`
 __Maths Teacher__
 (Akwadrat - Mobilna Szkoła Matematyki)
-<br/>Responsibilities:
-- Teaching maths, physics and general science
-- Interact with children
-- Target group: students, school children (from primary school to university)
-
-Profits:
-- Improving presentation skills
-- Improving soft skills
-- Learning how to be patient, calm and well-prepared
+<br/>Responsibilities: Teaching maths, physics and general science; Interact with children; Target group: students, school children (from primary school to university)
+</br>Profits: Improving presentation skills; Improving soft skills; Learning how to be patient, calm and well-prepared
 
 `11.2013 - 05.2015`
 __Junior Software Developer__
@@ -186,47 +192,28 @@ Content Charging Gateway
 `04.2013 - 06.2013`
 __Intern__
 (AMG.net / Atos)
-
-Workshops (2 months):
-- Java essentials.
-- SpringFramework in practice.
-- Test Driven Development.
-- Using tools Eclipse, Maven, Ant, SVN.
-- Basic JEE applications using Servlet API, MVC & JSP.
-- Web servers: Tomcat, JBoss.
-
+<br/>Workshops (2 months): Java essentials, SpringFramework in practice, TDD, Using tools Eclipse, Maven, Ant, SVN; Basic JEE applications using Servlet API, MVC & JSP; Web servers: Tomcat, JBoss.
 <br/>Project (1.5 months):
 <br/>Implementation a new project for Polish Airlines based on MuleESB platform.
 <br/>Technologies:
 JAVA SE 7, Mule ESB 3, JBoss AS 7.1, MySQL 5, WebServices (SOAP/REST), JPA 2.0, AWS, Maven 2, Groovy, XML/XPATH/XSLT
-
-<br/>Summary:
-<br/>Complete internship with grades as expected. Results above average were:
-- Fast learning process,
-- Sincere work engagement and commitment.
+<br/>Summary: Complete internship with grades as expected. Results above average were: Fast learning process, Sincere work engagement and commitment.
 
 `01.2012 -
 02.2012`
 __Intern__
 (Select Star)
 <br/>Internship focused on Joomla support.
-
-Responsibilities:
-- Preparing templates and installing templates with CMS on server
-- Supporting CMS
-
-Technologies:
-HTML, CSS, PHP, Joomla
+<br/>Responsibilities: Preparing templates and installing templates with CMS on server & Supporting CMS
+Technologies: HTML, CSS, PHP, Joomla
 
 `10.2011 - 11.2011`
 __Intern__
 (AgreeYa Mobility)
 Internship focused on mobile application development.
-
-Responsibilities:
-- Cognizing IOS & Android system
-
+<br/>Responsibilities: Cognizing IOS & Android system
 ## Education
+<br/>
 
 `2017 - 2018`
 __Academy Humanistic-Economic in Lodz__
@@ -254,6 +241,7 @@ BSc Thesis: Projecting and generating XML Documents based on a Relational Data B
 <br/>**Graduated in the top 5% of all graduates in 2013.**
 
 ## Courses & Certificates
+<br/>
 
 `05.2022`
 __AWS Certified Cloud Practitioner__
@@ -287,12 +275,14 @@ __Kotlin For Java Developers - Coursera course authorized by JetBrains__
 
 
 ## Languages
+<br/>
 
 <p>English - B2/C1</p>
 <p>Spanish - A2</p>
 <p>Russian - A1</p>
 
 ## Hobbies
+<br/>
 
 Travelling,
 Cycling,

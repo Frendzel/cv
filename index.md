@@ -30,11 +30,13 @@ __Build tools:__ Maven, Gradle
 
 __Brokers:__ ActiveMQ
 
+__Pub Subs:__ Kafka
+
 __Clouds:__ Aws, Azure;
 
 __Containers:__ K8S, Docker;
 
-__Storages:__ PostgreSQL, Oracle DB, MySQL, Cassandra, MongoDB, ElasticSearch;
+__Storages:__ PostgreSQL, Oracle DB, MySQL, Cassandra, MongoDB, 'ElasticSearch';
 
 __Testing:__ Junit, Cucumber, Selenium, TestNG, Mockito, AssertJ, Spock;
 
@@ -64,7 +66,6 @@ Working as a Software Developer with Server Product in Redbend R&D Department in
 
 __Department:__ Redbend aka Cloud&Edge
 <br/>__Projects:__ Automotive customers in Delivery organisation
-<br/>(February 2019 - September 2021)
 <br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
 Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrumban
@@ -144,7 +145,7 @@ __Tech Lead / Java Developer__
 __Maths Teacher__
 (Akwadrat - Mobilna Szkoła Matematyki)
 <br/>Responsibilities: Teaching maths, physics and general science; Interact with children; Target group: students, school children (from primary school to university)
-</br>Profits: Improving presentation skills; Improving soft skills; Learning how to be patient, calm and well-prepared
+<br/>Profits: Improving presentation skills; Improving soft skills; Learning how to be patient, calm and well-prepared
 
 `11.2013 - 05.2015`
 __Junior Software Developer__

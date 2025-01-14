@@ -3,7 +3,7 @@ layout: cv
 title: Marcin Erbel
 ---
 # Marcin Erbel
-Principal Software Engineer, Team Lead, Trainer
+Technical Team Lead | Engineering Manager
 
 <div id="webaddress">
 <a href="marcinerbel90@gmail.com">Mail</a> |
@@ -13,8 +13,8 @@ Principal Software Engineer, Team Lead, Trainer
 
 ## Short bio
 
-Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. More than 7+ years of experience as a Software Engineer, 4+ years in leading teams (team lead/tech lead), 5+ years in teaching.
-Currently working as a Software Engineer, Team Leader and Trainer.
+Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. 
+More than 15 years of experience as a Software Engineer mixed with leading teams (team lead/tech lead) and teaching.
 
 ### Specialized in
 
@@ -24,54 +24,49 @@ __Frameworks:__ Spring, SpringBoot, SpringData, SpringCloud, Apache Camel, Vavr;
 
 __Build tools:__ Maven, Gradle
 
-__Brokers:__ ActiveMQ
+__Brokers:__ ActiveMQ, Kafka
 
 __Clouds:__ Aws, Azure;
 
 __Containers:__ K8S, Docker;
 
-__Storages:__ PostgreSQL, Oracle DB, MySQL, Cassandra, MongoDB, ElasticSearch;
+__CI/CD:__ Jenkins, Github Actions, Gitlab CI;
+
+__DBs:__ PostgreSQL, Oracle DB, MySQL, Cassandra, MongoDB, ElasticSearch;
 
 __Testing:__ Junit, Cucumber, Selenium, TestNG, Mockito, AssertJ, Spock;
 
-__Corpo tools:__ IBM Jazz, Jira, Confluence, Redmine;
+__Tools:__ IBM Jazz, Jira, Confluence, Redmine;
 
 __Methodologies:__ Scrum, Kanban, Scrumban, Waterfall;
 
 ## Experience
 
-`12.2018 - now`
-__Principal Software Engineer__
+`12.2018 - 02.2025`
+__Senior Principal Software Engineer / Senior Manager__
 (Harman Connected Services)
 
-Working as a Software Developer with Server Product in Redbend R&D Department in the beginning. Then working as a Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 6 Java Developers, 3 QA's, 2 C developers, 2 DevOps. Requirements gathering and analysis, team management, delivery development process improvements. Additionally, the author and lecturer of the internal Java course for QA's (30h+) mostly focusing on Java, Spring, SQL, NoSQL (MongoDB). Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements.
+Working as a Technical Team Leader and Engineering Manager in the new polish Redbend Delivery Department which I've created from scratch. 
+Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 
+(25+ people directly). 
+Requirements gathering and analysis, team management, delivery development process improvements. Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements. Working on a new strategy model for the whole department together with executives.
 
 __Department:__ Redbend aka Cloud&Edge
 <br/>__Projects:__ Automotive customers in Delivery organisation
-<br/>(February 2019 - now)
 <br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
 Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrumban
 
-__Department:__ Redbend aka Cloud&Edge
-<br/>__Project:__ Server R&D
-<br/>(December 2018 - February 2019)
-<br/>Role: Software Developer
-<br/>Technologies: Java 11, ActiveMQ, Spring 5, SpringBoot 2, Spring Security, Vault, ElasticSearch, PF4J, PostgreSql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
-<br/>Methodology: Scrum
-
 `07.2021 - now`
 __Instructor__
 (Vavatech)
-<br/>(July 2021 - now) - part-time
 <br/>Role: instructor
 <br/>Technologies: ESB ServiceMix
 
-`04.2021 - now`
+`04.2021 - 02.2022`
 __Groovy Developer__
 (Team Connect)
 <br/>__Project:__ P2P Loan Portal
-<br/>(April 2021 - now) - part-time
 <br/>Role: Software Developer
 <br/>Technologies: Groovy, Gradle, Eclipse Vert.X, MongoDB, Reactive Programming
 <br/>Methodology: Direct cooperation with customer
@@ -140,7 +135,6 @@ __Tech Lead / Java Developer__
 (IT Kontrakt)
 
 Outsourcing for bank in Poland
-<br/>(June 2015 - May 2016)
 <br/>Role: Developer / Tech Lead / Team Lead / Interviewer
 <br/>Technologies: Java, ServiceMix, XSLT, XML, XPath, Apache Camel, JMS, WebServices (SOAP/REST), Maven, SVN, PL/SQL, Windows PowerShell, Redmine
 
@@ -301,7 +295,6 @@ __Kotlin For Java Developers - Coursera course authorized by JetBrains__
 (Coursera)
 <a href="https://www.coursera.org/account/accomplishments/verify/S35D4HH4NNC7?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate">Certificate</a>
 
-
 ## Languages
 
 <p>English - B2/C1</p>
@@ -310,12 +303,11 @@ __Kotlin For Java Developers - Coursera course authorized by JetBrains__
 
 ## Hobbies
 
-Travelling (preCovid-19 times),
-Cycling,
-Chess playing,
-Programming,
-Keto Diet,
-Wim Hof Methodology;
+* Travelling (preCovid-19 times),
+* Cycling,
+* Chess playing,
+* Programming,
+* Wim Hof Methodology;
 
 
 

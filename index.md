@@ -3,7 +3,7 @@ layout: cv
 title: Marcin Erbel
 ---
 # Marcin Erbel
-Senior Engineering Manager / Senior Principal Software Engineer / Team Lead / Trainer
+Senior Engineering Manager
 
 <div id="webaddress">
 <a href="mailto: marcinerbel90@gmail.com">Mail</a> |
@@ -15,7 +15,8 @@ Senior Engineering Manager / Senior Principal Software Engineer / Team Lead / Tr
 ## Short bio
 <br/>
 
-Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. Moreless 10 years of experience as a Software Engineer, 6+ years in leading teams (team lead/tech lead), 6+ years in teaching.
+Experienced Software Engineer working in Payments and Automotive areas with strong soft skills and teaching passion. 
+More than 15 years of experience as a Software Engineer, 6+ years in leading teams (team lead/tech lead), 6+ years in teaching.
 Currently working as an Engineering Manager, Technical Team Leader and Trainer.
 Living near Lodz (Poland).
 
@@ -36,74 +37,71 @@ __Clouds:__ Aws, Azure;
 
 __Containers:__ K8S, Docker;
 
-__Storages:__ PostgreSQL, Oracle DB, MySQL, Cassandra, MongoDB, 'ElasticSearch';
+__CI/CD:__ Jenkins, Github Actions, Gitlab CI;
+
+__DBs:__ PostgreSQL, Oracle DB, MySQL, Cassandra, MongoDB, ElasticSearch;
 
 __Testing:__ Junit, Cucumber, Selenium, TestNG, Mockito, AssertJ, Spock;
 
-__Corpo tools:__ IBM Jazz, Jira, Confluence, Redmine;
+__Tools:__ IBM Jazz, Jira, Confluence, Redmine;
 
 __Methodologies:__ Scrum, Kanban, Scrumban, Waterfall;
 
 ## Experience
-<br/>
-`09.2021 - now`
+`12.2018 - 02.2025`
 __Senior Engineering Manager / Senior Principal Software Engineer__
 (Harman Connected Services)
 
-Working as a Group Leader and Technical Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 15+ people. Requirements gathering and analysis, team management, delivery development process improvements. Technical interviewer (over 100+ interviews). K8S Guardian role, Aspice Guardian role and Server Guild Leader in the Delivery Department. Always open to new technologies and focus on development improvements. Managing team members and team leaders, performing f2fs, doing onboarding for newcomers, resolving conflicts and handling organisation issues.
+Working as a Group Leader and Technical Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 15+ people. 
+Requirements gathering and analysis, team management, delivery development process improvements. 
+Technical interviewer (over 100+ interviews). K8S Guardian role, Aspice Guardian role and Server Guild Leader in the Delivery Department. 
+Always open to new technologies and focus on development improvements. 
+Managing team members and team leaders, performing f2fs, doing onboarding for newcomers, resolving conflicts and handling organisation issues.
+I'm responsible for:
+* organizing work,
+* managing projects,
+* timesheets,
+* workshops/training/conference plans,
+* target plans,
+* evaluation processes,
+* development processes in the whole organization,
+* internal guild ideas,
+* communication with HR, Finances, Customer, Support, R&D
+* onboarding process
+* solving conflicts
+* recruitment (100+ interviews)
+* roadmap for delivery development Poland
+* fun activities organizing
+* setup strategy of the whole IC department (automotive group)
+* part of global mentoring program as a mentor
+* etc.
 
 __Department:__ Redbend aka Cloud&Edge
 <br/>__Projects:__ Automotive customers in Delivery organisation
-<br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
-Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
+<br/>__Technologies:__ Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
 <br/>Methodology: Scrumban
-
-`02.2019 - 09.2021`
-__Engineering Manager__
-(Harman Connected Services)
-
-Working as a Software Developer with Server Product in Redbend R&D Department in the beginning. Then working as a Team Leader in the new polish Redbend Delivery Department which I've created from scratch. Project leadership and technical guidance role within the software engineering team working in Delivery Development Department: 6 Java Developers, 3 QA's, 2 C developers, 2 DevOps. Requirements gathering and analysis, team management, delivery development process improvements. Additionally, the author and lecturer of the internal Java course for QA's (30h+) mostly focusing on Java, Spring, SQL, NoSQL (MongoDB). Technical interviewer (over 50+ interviews). K8S Guardian role and Aspice Guardian role in the Delivery Department. Always open to new technologies and focus on development improvements.
-
-__Department:__ Redbend aka Cloud&Edge
-<br/>__Projects:__ Automotive customers in Delivery organisation
-<br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
-Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
-<br/>Methodology: Scrumban
-
-`12.2018 - 09.2021`
-__Principal Software Engineer__
-(Harman Connected Services)
-
-__Department:__ Redbend aka Cloud&Edge
-<br/>__Projects:__ Automotive customers in Delivery organisation
-<br/>(February 2019 - September 2021)
-<br/>Role: Tech Lead/Group Lead/Team Lead/Software Developer/Application Architect/Delivery Department Manager
-Technologies: Java 11, Kotlin, ActiveMQ, Spring 5, SpringBoot 2, Spring Cloud, Spring Security, Hexagonal Architecture, Vavr, Vault, Aws, Azure, Kubernetes, ElasticSearch, PF4J, Postgresql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
-<br/>Methodology: Scrumban
-
-__Department:__ Redbend aka Cloud&Edge
-<br/>__Project:__ Server R&D
-<br/>(December 2018 - February 2019)
-<br/>Role: Software Developer
-<br/>Technologies: Java 11, ActiveMQ, Spring 5, SpringBoot 2, Spring Security, Vault, ElasticSearch, PF4J, PostgreSql, Oracle DB, Cucumber, Selenium, TestNG, Mockito, IBM Jazz
-<br/>Methodology: Scrum
 
 `08.2017 - now`
 __Programming Bootcamp Teacher__
 (Software Development Academy)
 <br/>SDA offers 7 months Java courses, aimed at beginners, who are ready to take the Junior Java Developer role at the end of the course. Teaching fundamentals of: Java, Spring, SQL, NoSQL, Hibernate/Jpa, SOAP, REST, HTTP, Scrum;
 
+`10.2024 - 01.2025`
+__Mentor__
+(Technical University of Łódź)
+<br/> Mentor in mentoring program Student Showcase 2024:
+
 `07.2021 - 02.2022`
 __Instructor__
 (Vavatech)
-<br/>Technologies: ESB ServiceMix
+<br/>__Technologies:__ ESB ServiceMix
 
 `04.2021 - 02.2022`
 __Groovy Developer__
 (Team Connect)
 <br/>__Project:__ P2P Loan Portal - part-time
-<br/>Technologies: Groovy, Gradle, Eclipse Vert.X, MongoDB, Reactive Programming
-<br/>Methodology: Direct cooperation with customer
+<br/>__Technologies:__ Groovy, Gradle, Eclipse Vert.X, MongoDB, Reactive Programming
+<br/>__Methodology:__ Direct cooperation with customer
 
 `05.2015 - 02.2022`
 __Java Mentor / Owner__
@@ -119,13 +117,13 @@ __Co-organizer / Presenter__
 __Senior Software Engineering Consultant__
 (ITMagination)
 <br/>Outsourcing for bank in Poland
-<br/>Technologies: Java 8 SE, SpringBoot 2.0, Spring Cloud Config, Spring 5, Kafka, OracleDB, Maven, JUnit, AssertJ, Git, Gerrit, Confluence, Jira, InteliJ
+<br/>__Technologies:__ Java 8 SE, SpringBoot 2.0, Spring Cloud Config, Spring 5, Kafka, OracleDB, Maven, JUnit, AssertJ, Git, Gerrit, Confluence, Jira, InteliJ
 
 `06.2016 - 08.2018`
 __Team Lead / Software Engineer__
 (Oberthur Technologies / Idemia)
 <br/>Payments
-<br/>Technologies: Java 8 SE, Spring, Cassandra, Apache Camel, Maven, Groovy, TDD, BDD, Spock, JUnit, Git, Docker, Kubernetes, Akka, Confluence, Bitbucket, Jira, InteliJ
+<br/>__Technologies:__ Java 8 SE, Spring, Cassandra, Apache Camel, Maven, Groovy, TDD, BDD, Spock, JUnit, Git, Docker, Kubernetes, Akka, Confluence, Bitbucket, Jira, InteliJ
 <br/>Project leadership and technical guidance role within software engineering team working in Payments Department: 3 Devs, 1 QA, 1 DevOps. Release schedule planning, requirements gathering and analysis, team management, training officer for L1/L2 support teams. Successfully went through Mastercard certification process with the whole platform.
 
 `02.2018 - 06.2018`
@@ -139,56 +137,56 @@ __IT Teacher__
 __Tech Lead / Java Developer__
 (IT Kontrakt)
 <br/>Outsourcing for bank in Poland
-<br/>Technologies: Java, ServiceMix, XSLT, XML, XPath, Apache Camel, JMS, WebServices (SOAP/REST), Maven, SVN, PL/SQL, Windows PowerShell, Redmine
+<br/>__Technologies:__ Java, ServiceMix, XSLT, XML, XPath, Apache Camel, JMS, WebServices (SOAP/REST), Maven, SVN, PL/SQL, Windows PowerShell, Redmine
 
 `10.2012 - 06.2015`
 __Maths Teacher__
 (Akwadrat - Mobilna Szkoła Matematyki)
-<br/>Responsibilities: Teaching maths, physics and general science; Interact with children; Target group: students, school children (from primary school to university)
-<br/>Profits: Improving presentation skills; Improving soft skills; Learning how to be patient, calm and well-prepared
+<br/>__Responsibilities:__ Teaching maths, physics and general science; Interact with children; Target group: students, school children (from primary school to university)
+<br/>__Profits:__ Improving presentation skills; Improving soft skills; Learning how to be patient, calm and well-prepared
 
 `11.2013 - 05.2015`
 __Junior Software Developer__
 (AMG.net / Atos)
 <br/>Notification Server
 <br/>(March 2015 - May 2015)
-<br/>Role: Developer/DevOps
-<br/>Technologies: Java, JMS, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, JBoss AS
+<br/>__Role:__ Developer/DevOps
+<br/>__Technologies:__ Java, JMS, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, JBoss AS
 
 Application for decoders
 <br/>(March 2015)
-<br/>Role: Developer
-<br/>Technologies: Java, Javascript, JQuery, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, Wildfly
+<br/>__Role:__ Developer
+<br/>__Technologies:__ Java, Javascript, JQuery, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Oracle 11g, Wildfly
 
 ePayments for Ministry of Justice
 <br/>(November 2014 - March 2015)
-<br/>Role: Developer
-<br/>Technologies: Java, Apache Camel, JBoss Fuse, Spring, Hibernate, JPA, WebServices (SOAP/REST), Jasper Reports, Maven, SVN, Couchbase, Oracle 11g, Jboss AS/ EAP
+<br/>__Role:__ Developer
+<br/>__Technologies:__ Java, Apache Camel, JBoss Fuse, Spring, Hibernate, JPA, WebServices (SOAP/REST), Jasper Reports, Maven, SVN, Couchbase, Oracle 11g, Jboss AS/ EAP
 
 Mobile Gateway
 <br/>(August 2014 - December 2014)
-<br/>Role: Developer
-<br/>Technologies: Java, WebServices (SOAP/REST), Hibernate, Maven, Oracle 11g, Tomcat
+<br/>__Role:__ Developer
+<br/>__Technologies:__ Java, WebServices (SOAP/REST), Hibernate, Maven, Oracle 11g, Tomcat
 
 Polish Airlines
 <br/>(June 2014 - October 2014)
-<br/>Role: Developer
-<br/>Technologies: JAVA SE 7, Mule ESB 3, JBoss AS 7.1, MySQL 5, WebServices (SOAP/REST), JPA 2.0, AWS, Maven 2, Groovy, XML/XPATH/XSLT
+<br/>__Role:__ Developer
+<br/>__Technologies:__ JAVA SE 7, Mule ESB 3, JBoss AS 7.1, MySQL 5, WebServices (SOAP/REST), JPA 2.0, AWS, Maven 2, Groovy, XML/XPATH/XSLT
 
 Notification Server Console
 <br/>(August 2014 - September 2014)
-<br/>Role: Developer
-<br/>Technologies: Play, Scala, Java, WebServices (SOAP/REST), Maven, Oracle 11g
+<br/>__Role:__ Developer
+<br/>__Technologies:__ Play, Scala, Java, WebServices (SOAP/REST), Maven, Oracle 11g
 
 Payment Gateway
 <br/>(June 2014 - July 2014)
-<br/>Role: Developer
-<br/>Technologies: Java, Apache Camel, Spring, Hibernate, JPA, WebServices (SOAP/REST), Maven, Liquibase, SVN, Oracle 11g, Tomcat
+<br/>__Role:__ Developer
+<br/>__Technologies:__ Java, Apache Camel, Spring, Hibernate, JPA, WebServices (SOAP/REST), Maven, Liquibase, SVN, Oracle 11g, Tomcat
 
 Content Charging Gateway
 <br/>(November 2013 - May 2014)
-<br/>Role: Developer
-<br/>Technologies: Java, Apache Camel, Spring, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Couchbase, Oracle 11g, Tomcat
+<br/>__Role:__ Developer
+<br/>__Technologies:__ Java, Apache Camel, Spring, Hibernate, JPA, WebServices (SOAP/REST), Maven, SVN, Couchbase, Oracle 11g, Tomcat
 
 `04.2013 - 06.2013`
 __Intern__
@@ -196,23 +194,22 @@ __Intern__
 <br/>Workshops (2 months): Java essentials, SpringFramework in practice, TDD, Using tools Eclipse, Maven, Ant, SVN; Basic JEE applications using Servlet API, MVC & JSP; Web servers: Tomcat, JBoss.
 <br/>Project (1.5 months):
 <br/>Implementation a new project for Polish Airlines based on MuleESB platform.
-<br/>Technologies:
+<br/>__Technologies:__
 JAVA SE 7, Mule ESB 3, JBoss AS 7.1, MySQL 5, WebServices (SOAP/REST), JPA 2.0, AWS, Maven 2, Groovy, XML/XPATH/XSLT
 <br/>Summary: Complete internship with grades as expected. Results above average were: Fast learning process, Sincere work engagement and commitment.
 
-`01.2012 -
-02.2012`
+`01.2012 - 02.2012`
 __Intern__
 (Select Star)
 <br/>Internship focused on Joomla support.
 <br/>Responsibilities: Preparing templates and installing templates with CMS on server & Supporting CMS
-Technologies: HTML, CSS, PHP, Joomla
+__Technologies:__ HTML, CSS, PHP, Joomla
 
 `10.2011 - 11.2011`
 __Intern__
 (AgreeYa Mobility)
 Internship focused on mobile application development.
-<br/>Responsibilities: Cognizing IOS & Android system
+<br/>__Responsibilities:__ Cognizing IOS & Android system
 ## Education
 <br/>
 
@@ -243,6 +240,11 @@ BSc Thesis: Projecting and generating XML Documents based on a Relational Data B
 
 ## Courses & Certificates
 <br/>
+
+`05.2022`
+__Microsoft Certified: Azure Fundamentals__
+(Microsoft)
+<a href="https://www.credly.com/badges/3582ed42-0e7f-4541-ad29-5d7cb2893aa1">Certificate</a>
 
 `05.2022`
 __AWS Certified Cloud Practitioner__
@@ -287,8 +289,5 @@ __Kotlin For Java Developers - Coursera course authorized by JetBrains__
 
 Travelling,
 Cycling,
-Chess playing,
 Programming,
-Keto Diet,
-Wim Hof Methodology,
 Investing;
